@@ -1,0 +1,14 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "Pasta teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Carniell",
+  "license": "MIT",
+  "dependencies": {
+    "wikipedia": "^1.1.9"
+  }
+}
